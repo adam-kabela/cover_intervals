@@ -2,9 +2,9 @@
 
 ## Summary
 
-Given a family F of intervals of a real line, the algorithm finds a subfamily S of F such that
+Given a family F of intervals on the real line, the algorithm finds a subfamily S of F such that
 
-(1) the union of S = the union of F
+(1) the union of S = the union of F, and
 
 (2) S is a smallest possible subfamily which satisfies property (1)
 
